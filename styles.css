@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    border: solid 2xp rgb(42,122,228);
+    border-bottom: solid 2xp rgb(42,122,228);
 }
 
 
