@@ -18,11 +18,15 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
+}
+
+img {
+    height: 100px;
 }
 
 .categoria-videos {
